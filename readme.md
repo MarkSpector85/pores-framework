@@ -1,5 +1,3 @@
-Certainly! Below is a simple README template with the information you provided:
-
 ```markdown
 # PORES Framework
 
